@@ -11,3 +11,18 @@ Data Science & Business Analytics Tasks
 Host the code on GitHub Repository (public). Record the code and output in a video. Post the video on YouTube
 Share links of code (GitHub) and video (YouTube) as a post on YOUR LinkedIn profile
 Submit the LinkedIn link in Task Submission Form when shared with you.
+
+
+
+Task#2-- Prediction using Unsupervised Machine Learning
+● From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.
+
+● Use R or Python or perform this task
+
+● Dataset : https://bit.ly/3kXTdox
+
+● Task submission:
+
+Host the code on GitHub Repository (public). Record the code and output in a video. Post the video on YouTube
+Share links of code (GitHub) and video (YouTube) as a post on YOUR LinkedIn profile
+Submit the LinkedIn link in Task Submission Form when shared with you.
